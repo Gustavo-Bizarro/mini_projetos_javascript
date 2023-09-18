@@ -15,4 +15,4 @@ function updateClock(){
    console.log(hours,minutes, seconds)
 
 } 
-setInterval(updateClock, 1000)
+setInterval(updateClock, 1000);
